@@ -13,8 +13,6 @@ I have completed 4 modules and demonstrated skills in the following areas:
 - Data visualisation and dashboarding (PowerBI dashboarding with interactive visualisations)
 - Data analytics (linear and logistic regression modelling)
 
-#![Profile Photo](images/stock_image_1.jpg)
-
 ## Education
 I have done a lot of courses and I'm self taught in a lot of things. I will update this when I can think more clearly about what I would like to put out there.
 ## Projects
