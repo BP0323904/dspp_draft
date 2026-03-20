@@ -24,6 +24,7 @@ I have done a lot of courses and I'm self taught in a lot of things. I will upda
 ## Projects
 [Clustering recipes with data from https://www.allrecipes.com/](https://github.com/BP0323904/dspp/tree/main/Allrecipes)
   * How effectively can K-Means clustering be applied to segment recipes, based on macronutrient composition and preparation time, in order to support time-constrained individuals in making nutritionally informed choices?
+  * - [Get Data](Companies_House/Notebooks/ch_get_data.html)
 
 [Logistic Regression with Companies House Data](https://github.com/BP0323904/dspp/tree/main/Companies%20House)
   * To what extent can company structure and ownership variables be used to predict late filing behaviour in UK companies using logistic regression, as an indicator of regulatory non-compliance?
