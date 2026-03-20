@@ -1,5 +1,5 @@
 title: BP0323904
-logo: /images/stock_image_1.jpg
+logo: <img src="images/stock_image_1.jpg" alt="Sample Image" style="width:50%; height:auto;">
 description: Data Science Project Portfolio
 show_downloads: TRUE
 theme: jekyll-theme-midnight
