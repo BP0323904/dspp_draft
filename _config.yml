@@ -3,3 +3,10 @@ logo: <img src="images/stock_image_1.jpg" alt="Sample Image" style="width:50%; h
 description: Data Science Project Portfolio
 show_downloads: TRUE
 theme: jekyll-theme-midnight
+
+sidebar:
+main:
+nav:
+- title: test
+- title: Companies House
+- title: Downloads
