@@ -4,7 +4,7 @@ Data Science Professional Practice Module Portfolio
 ### About me
 This will be more curated when I consider what information I would like to put out there.
 
-I am currently in the first year of a 3-year Level 6 **Data Science** degree apprenticeship course.
+I am currently in the first year of a 3-year Level 6 **Data Science** degree apprenticeship course, here is a link to my main [Gihub Profile Page](https://bp0323904.github.io/dspp/).
 
 I have completed 4 modules and demonstrated skills in the following areas:
 - Data engineering (ETL processing in Power Query for PowerBI and Jupyter Notebooks for Python)
