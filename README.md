@@ -11,9 +11,9 @@ I am currently in the first year of a 3-year Level 6 **Data Science** degree app
 I have completed 4 modules and demonstrated skills in the following areas:
 | Area | Skills|
 |-----|-----|
-| **Data engineering** | - ETL processing in Power Query for PowerBI <br> - Jupyter Notebooks for Python |
-| **Data visualisation and dashboarding** | - PowerBI dashboarding with interactive visualisations <br> - Data visuals in Python using Jupyter Notebooks |
-| **Data analytics** | - linear and logistic regression modelling in Python using Jupyter Notebooks |
+| **Data engineering** | ETL processing in Power Query for PowerBI <br> Jupyter Notebooks for Python |
+| **Data visualisation and dashboarding** | PowerBI dashboarding with interactive visualisations <br> Data visuals in Python using Jupyter Notebooks |
+| **Data analytics** | linear and logistic regression modelling in Python using Jupyter Notebooks |
 
 ## Education
 I have done a lot of courses and I'm self taught in a lot of things. I will update this when I can think more clearly about what I would like to put out there.
@@ -25,5 +25,4 @@ I have done a lot of courses and I'm self taught in a lot of things. I will upda
 | **Quesion**        | How effectively can K-Means clustering be applied to segment recipes, based on macronutrient composition and preparation time, in order to support time-constrained individuals in making nutritionally informed choices? | To what extent can company structure and ownership variables be used to predict late filing behaviour in UK companies using logistic regression, as an indicator of regulatory non-compliance?
 | **Github Links** | [Logistic Regression with Companies House Data](https://github.com/BP0323904/dspp/tree/main/Companies_House) | [Clustering recipes with data from https://www.allrecipes.com/](https://github.com/BP0323904/dspp/tree/main/Allrecipes) |
 | **Data Sources** | [Companies House]() | [Allrecipes.com]() |
-| **Scripts**        | [Get Data](https://github.com/BP0323904/dspp/blob/main/Companies_House/Notebooks/CH_Get_Data.ipynb) <br> [EDA and Data Cleansing](https://github.com/BP0323904/dspp/blob/main/Companies_House/Notebooks/CH_EDA_and_Cleansing.ipynb) <br> [Logistic Regression Modelling](https://github.com/BP0323904/dspp/blob/main/Companies_House/Notebooks/CH_Log_Reg_Model.ipynb)
-|   |
+| **Scripts**        | [Get Data](https://github.com/BP0323904/dspp/blob/main/Companies_House/Notebooks/CH_Get_Data.ipynb) <br> [EDA and Data Cleansing](https://github.com/BP0323904/dspp/blob/main/Companies_House/Notebooks/CH_EDA_and_Cleansing.ipynb) <br> [Logistic Regression Modelling](https://github.com/BP0323904/dspp/blob/main/Companies_House/Notebooks/CH_Log_Reg_Model.ipynb) |
