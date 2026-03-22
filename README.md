@@ -12,9 +12,9 @@ I have completed 4 modules and demonstrated skills in the following areas:
 
 | Area | Skills |
 |-----|-----|
-| **Data engineering** | ETL processing in Power Query for PowerBI <br> Jupyter Notebooks for Python |
+| **Data engineering** | ETL processing in Power Query for PowerBI and Jupyter Notebooks for Python |
 | **Data visualisation and dashboarding** | PowerBI dashboarding with interactive visualisations <br> Data visuals in Python using Jupyter Notebooks |
-| **Data analytics** | linear and logistic regression modelling in Python using Jupyter Notebooks |
+| **Data analytics** | Linear regression and logistic regression modelling in Python using Jupyter Notebooks |
 
 ## Education
 I have done a lot of courses and I'm self taught in a lot of things. I will update this when I can think more clearly about what I would like to put out there.
