@@ -9,14 +9,11 @@ This will be more curated when I consider what information I would like to put o
 I am currently in the first year of a 3-year Level 6 **Data Science** degree apprenticeship course. [Redirect link to Github Profile Page](https://bp0323904.github.io/dspp/)
 
 I have completed 4 modules and demonstrated skills in the following areas:
-* Data engineering
-  * ETL processing in Power Query for PowerBI
-  * Jupyter Notebooks for Python
-* Data visualisation and dashboarding
-  * PowerBI dashboarding with interactive visualisations
-  * Data visuals using Python in Jupyter Notebooks
-* Data analytics
-  * linear and logistic regression modelling in Python using Jupyter Notebooks
+| Area | Skills|
+|-----|-----|
+| **Data engineering** | - ETL processing in Power Query for PowerBI <br> - Jupyter Notebooks for Python |
+| **Data visualisation and dashboarding** | - PowerBI dashboarding with interactive visualisations <br> - Data visuals in Python using Jupyter Notebooks |
+| **Data analytics** | - linear and logistic regression modelling in Python using Jupyter Notebooks |
 
 ## Education
 I have done a lot of courses and I'm self taught in a lot of things. I will update this when I can think more clearly about what I would like to put out there.
