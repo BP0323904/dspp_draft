@@ -1,7 +1,7 @@
 # Data Scientist
 Data Science Professional Practice Module Portfolio
 
-<center><img src="images/stock_image_1.jpg" alt="Sample Image" style="width:40%; height:auto;"></center>
+<center> <img src="images/stock_image_1.jpg" alt="Sample Image" style="width:40%; height:auto;"> </center>
 
 ### About me
 This will be more curated when I consider what information I would like to put out there.
