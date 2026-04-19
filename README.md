@@ -1,4 +1,4 @@
-# Data Science Professional Practice Module Portfolio
+# Data Science Professional Practice Portfolio
 
 <center> <img src="images/stock_image_1.jpg" alt="Sample Image" style="width:40%; height:auto;"> </center>
 
