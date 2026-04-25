@@ -1,5 +1,5 @@
 ## Question:
-####  How effectively can K-Means clustering be applied to segment recipes, based on macronutrient composition and preparation time, in order to support time-constrained individuals in making nutritionally informed choices?
+####  How effectively can K-Means clustering be applied to recipe segmentation, based on macronutrient composition and preparation time, in order to support time-constrained individuals in making nutritionally informed choices?
 
 [K-Means Clustering Notebook](https://github.com/BP0323904/dspp/blob/main/Allrecipes/Notebooks/Allrecipes_K_Means_Clustering.ipynb)
 
