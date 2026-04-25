@@ -1,5 +1,11 @@
 # ----- Library Imports  -----
 
+# System libraries
+import platform          # For displaying operating system, python version used and CPU processor used when running the code
+import psutil            # For displaying CPU cores and RAM on computer used when running the code           
+import importlib         # For displaying the library versions used when running the code
+
+
 # Core libraries
 import pandas as pd                             # DataFrame manipulation and tabular data handling
 
@@ -11,6 +17,30 @@ from IPython.display import HTML                # Enables HTML rendering (e.g., 
 
 
 # ---- Helper Functions -----
+
+# System and Python library information, callable using the defined name '
+def system_summary(libraries=None):
+    """
+    Displays basic system and Python environment information, along
+    with library versions used in the project.
+    """
+
+    info = {
+        "Operating System": platform.platform(),
+        "Python Version": platform.python_version(),
+        "CPU Processor": platform.processor(),
+        "CPU Physical Cores": psutil.cpu_count(logical=False),
+        "CPU Logical Cores": psutil.cpu_count(logical=True),
+        "RAM (GB)": round(psutil.virtual_memory().total / (1024**3), 2)
+    }
+
+    if libraries:
+        for lib in libraries:
+            module = importlib.import_module(lib)
+            info[f"{lib} version"] = module.__version__
+
+    return info
+
 
 # Headline figures for datasets, callable by using the defined name 'headline_figures()'.
 # This function uses pandas to compute dataset‑level summary statistics and assemble them into a one‑row DataFrame.

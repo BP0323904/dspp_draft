@@ -118,14 +118,14 @@ def plot_interactive_scatter_with_ref_line(
     # Ensures the line spans the full visible range
     max_val = max(df[x].max(), df[y].max())
 
-    # Add a dashed red y=x reference line for comparison
+    # Add a dashed orange y=x reference line for comparison
     # Useful for assessing agreement between the two variables
     fig.add_trace(
         go.Scatter(
             x=[0, max_val],
             y=[0, max_val],
             mode="lines",
-            line=dict(color="red", dash="dash"),
+            line=dict(color="orange", dash="dash"),
             showlegend=False
         )
     )

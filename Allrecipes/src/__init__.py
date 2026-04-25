@@ -2,6 +2,7 @@
 # This makes notebook imports cleaner and keeps the project structured like a real Python package.
 
 from .utils import (                 # Import selected functions from the utils module
+    system_summary,                  # Produces summary of system and libraries used
     headline_figures,                # Summarises dataset structure (rows, columns, missing values, memory usage)
     clean_column_headers,            # Cleans column names using regex (lowercase, underscores, alphanumeric only)
     clean_column_contents,           # Cleans column contents using regex, when it is not a missing values (NaN), returns a lowercase alphabet-only string with collapsed whitespace
@@ -31,6 +32,7 @@ from .clustering import (            # Import selected functions from the cluste
 # __all__ defines the public API of the src package.
 # Only the names listed here will be imported when using: from src import *
 __all__ = [
+    "system_summary",                         # System and library summary information helper (utils.py)
     "headline_figures",                       # Dataset summary helper (utils.py)
     "clean_column_headers",                   # Column cleaning helper (utils.py)
     "clean_column_contents",                  # Cleans content cleaning helper (utils.py)
