@@ -21,8 +21,5 @@
 | reviews        | double    | Number of written reviews.                                                 |
 | prep_time      | double    | Preparation time in minutes.                                               |
 | cook_time      | double    | Cooking time in minutes.                                                   |
-| total_time     | double    | Prep + cook time in minutes. Note that this value may not always match the |
-|                |           | actual total effort required, as other time-related fields (such as        |
-|                |           | refrigeration, marination, fry time or additional wait periods) have been  |
-|                |           | excluded due to inconsistent availability across recipes.                  |
+| total_time     | double    | Prep + cook time in minutes. Note that this value may not always match the actual total effort required, as other time-related fields (such as refrigeration, marination, fry time or additional wait periods) have been excluded due to inconsistent availability across recipes.              |
 | servings       | double    | Number of servings.                                                        |
